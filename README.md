@@ -1,2 +1,0 @@
-# AbC
-Repository
